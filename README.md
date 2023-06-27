@@ -6,5 +6,6 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=git&logoColor=F16822)
 
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js-F16822&logoColor=F16822"/>
+
