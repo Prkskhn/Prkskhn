@@ -11,4 +11,3 @@
 
 <br/>
 
-<h2>My popular videos</h2>
